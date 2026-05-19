@@ -1,6 +1,6 @@
 # Balancd — AI-Assisted Month-End Close Automation
 
-> **Graduate Direct Project** · Northwest Missouri State University · Aug 2024 – May 2026  
+> **Graduate Direct Project** · Northwest Missouri State University · Aug 2025 – May 2026  
 > Source code is private (client-owned). This repository documents the project's architecture, features, and my role.  
 > 🌐 **[View the official product landing page →](https://www.vossaiconsulting.com/balancd/)**
 
