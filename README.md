@@ -139,3 +139,48 @@ For recruiters and engineers reviewing this project:
 - 💼 [My LinkedIn](https://www.linkedin.com/in/wyatt-morgan20/)
 - 🐙 [My GitHub](https://github.com/WyattMorgan20)
 - 🔒 [Source repository](https://github.com/RobVoss-AI/Balancd) *(private — client-owned)*
+
+---
+
+# Demos:
+
+
+## Dashboard Overview
+
+![Dashboard Demo](gifs/loginDashboard.gif)
+
+---
+
+## Transaction Management
+
+![Transaction Workflow](gifs/transaction.gif)
+
+---
+
+## AI-Assisted Audit Features
+
+![AI Audit Demo](gifs/financeReconcilliations.gif)
+
+---
+
+## Month End Close
+
+![Month End Close Demo](gifs/monthEndClose.gif)
+
+---
+
+## Reports
+
+![Reports Demo](gifs/reports.gif)
+
+---
+
+## Business Simulation
+
+![Business Simulation Demo](gifs/businessSimulation.gif)
+
+---
+
+## Receivables/Payables/System
+
+![Receivables/Payables/System Demo](gifs/receivablesPayablesSystem.gif)
