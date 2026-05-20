@@ -112,7 +112,7 @@ Balancd uses **Tauri** as its desktop runtime, pairing a **Rust** backend with a
 - **Institution:** Northwest Missouri State University — School of Computer Science
 - **Advisors:** Dr. Ajay Bandi (Primary), Dr. Zhiling Tu (Secondary)
 - **Team:** Group 1 — 4 members
-- **Duration:** Aug 2024 – May 2026 (2 semesters of Graduate Direct Project)
+- **Duration:** Aug 2025 – May 2026 (2 semesters of Graduate Direct Project)
 - **Grades:** A in GDP I · A in GDP II
 
 The project was publicly defended and presented to faculty and external reviewers in Spring 2026. Balancd is currently positioned as a pre-seed startup, actively seeking capital and strategic partnerships.
