@@ -148,39 +148,45 @@ For recruiters and engineers reviewing this project:
 ## Dashboard Overview
 
 ![Dashboard Demo](gifs/loginDashboard.gif)
+Secure login with TOTP two-factor authentication, followed by the main dashboard — displaying real-time account balances and recent transaction activity at a glance.
 
 ---
 
 ## Transaction Management
 
-![Transaction Workflow](gifs/transaction.gif)
+![Transaction Workflow Demo](gifs/transaction.gif)
+Double-entry transaction management — creating, categorizing, and reviewing journal entries with full debit/credit ledger tracking. Features AI-assisted classification, transaction linking, document attachments, variance flagging, search, and file import.
 
 ---
 
 ## AI-Assisted Audit Features
 
 ![AI Audit Demo](gifs/financeReconcilliations.gif)
+AI-assisted reconciliation workflow — matching transactions against imported bank data with Claude API-powered suggestions to flag discrepancies and accelerate the close process. Prepared by Client (PBC) Requests and review integration.
 
 ---
 
 ## Month End Close
 
 ![Month End Close Demo](gifs/monthEndClose.gif)
+Structured month-end close workflow — task assignment, stage-by-stage sign-off, and a full audit trail ensuring nothing gets closed without proper review. Projects page manages multi-client engagements.
 
 ---
 
 ## Reports
 
 ![Reports Demo](gifs/reports.gif)
+Five-report financial suite — Balance Sheet, Income Statement, Cash Flow Statement, Trial Balance, and General Ledger — generated from live ledger data and exportable to QuickBooks/Xero formats.
 
 ---
 
 ## Business Simulation
 
 ![Business Simulation Demo](gifs/businessSimulation.gif)
-
+Organization management — create departments, build teams within them, and define member roles and permissions. Admins can reassign roles, generate invite codes for new users, and manage the full organizational structure of the firm.
 ---
 
 ## Receivables/Payables/System
 
 ![Receivables/Payables/System Demo](gifs/receivablesPayablesSystem.gif)
+Accounts receivable and payable management, system configuration, and the Settings page — including API key input for connecting the Anthropic Claude integration that powers Balancd's AI audit features.
